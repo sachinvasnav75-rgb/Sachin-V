@@ -1,0 +1,6 @@
+{
+  "name": "Super Bike India 3D: Open World",
+  "description": "An advanced 3D open-world Indian bike driving game with superbikes, stunt ramps, city traffic, smartphone cheat codes, career missions, and custom tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
